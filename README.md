@@ -15,4 +15,4 @@ download repo
 extract it
 run vote.py
 
-If you want more votes put new names in names.txt and put more proxy's in proxies.txt
+If you want more votes put new names in names.txt and put more proxy's in proxies.txt!
